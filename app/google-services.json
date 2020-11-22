@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "925176180729",
+    "firebase_url": "https://my-application-32af8.firebaseio.com",
+    "project_id": "my-application-32af8",
+    "storage_bucket": "my-application-32af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925176180729:android:92642491fb2e21cd73d728",
+        "android_client_info": {
+          "package_name": "com.example.i_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925176180729-2s11n6femm2ggilmmia1a348185mhv0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbgMYAKKGe8WhQkbTSY19vgXCWCUx-uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925176180729-2s11n6femm2ggilmmia1a348185mhv0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925176180729:android:fcaeaa7fde96700e73d728",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925176180729-2s11n6femm2ggilmmia1a348185mhv0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbgMYAKKGe8WhQkbTSY19vgXCWCUx-uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925176180729-2s11n6femm2ggilmmia1a348185mhv0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925176180729:android:cb479539a692a1ff73d728",
+        "android_client_info": {
+          "package_name": "com.example.waves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925176180729-2s11n6femm2ggilmmia1a348185mhv0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbgMYAKKGe8WhQkbTSY19vgXCWCUx-uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925176180729-2s11n6femm2ggilmmia1a348185mhv0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
